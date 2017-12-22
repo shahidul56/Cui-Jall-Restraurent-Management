@@ -8,6 +8,6 @@ namespace Cui_Jall_Restraurent__Management
 {
     class ConnectionString
     {
-        public string DBConn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=I:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\ChuiJhalManagement.mdf;Integrated Security=True";
+        public string DBConn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=H:\TemporalProjectPlace\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\ChuiJhalManagement.mdf;Integrated Security=True";
     }
 }
