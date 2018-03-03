@@ -49,3 +49,6 @@
 ![capture](https://user-images.githubusercontent.com/11449967/36711167-2b5ed12a-1bac-11e8-99d8-684e77b513d2.PNG)
 
 
+12. Customer auctomatic bill calcualtion:
+
+![dwdwq](https://user-images.githubusercontent.com/11449967/36929507-acfd7896-1ebb-11e8-83cc-946fa9cad07a.PNG)
